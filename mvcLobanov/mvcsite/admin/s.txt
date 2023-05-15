@@ -1,0 +1,1 @@
+C:\OpenServer\modules\http\Apache-2.4-x64\bin>htpasswd.exe -c .htpasswd 
